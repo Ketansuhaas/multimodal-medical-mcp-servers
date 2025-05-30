@@ -5,6 +5,10 @@
 
 This document provides instructions for setting up and configuring the EEG server.
 
+![image](https://github.com/user-attachments/assets/cd2f263f-2fe5-45dd-a5a9-d58c20a1246f)
+![image](https://github.com/user-attachments/assets/1cdae4c2-a905-415d-9f93-6692a6886786)
+![image](https://github.com/user-attachments/assets/1a6a9806-f0f6-4add-afc8-5f1836d704a8)
+
 ## Prerequisites
 
 - Python environment (Anaconda recommended)
