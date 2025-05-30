@@ -1,0 +1,5 @@
+eeg-server/.venv
+eeg-server/__pycache__
+eeg-server/pyproject.toml
+eeg-server/uv.lock
+eeg-server/.python-version
